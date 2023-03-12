@@ -226,3 +226,8 @@
   description: “标题党，举报了”的首字母缩写。
   sources:
   - https://www.luogu.com.cn/blog/FCBM71/luogu-dictionary
+- name: 总司令
+  short_description: 不可以，总司令
+  description: CSP-S 2022 T3，全部输出“NO”可以拿 45pts。
+  sources:
+  - https://www.luogu.com.cn/discuss/525529
